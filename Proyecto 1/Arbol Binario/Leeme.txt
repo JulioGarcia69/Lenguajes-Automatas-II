@@ -1,0 +1,21 @@
+intrucciones:
+1.- Abrir NetBeans
+2.- Dar clic en Archivo y seleccionar Abrir Proyecto. (Open Project)
+3.- En la ventana que aparece buscar la carpeta con las clases (Proyecto 1 - Arbol Binario - ArbolBin), debera aparecer con un icono de una taza. Despues de seleccionarlo dar clic en abrir proyecto.
+4.- En la ventana del lado izquierdo aparecera el proyecto llamado "ArbolBin", dar doble clic para que aparezca la carpeta de paquetes de fuentes.
+5.- Doble clic en default package, se mostraran las 3 clases (ArbolBin, Nodo, Prueba)
+6.- El main es la clase Prueba, basta con dar clic derecho sobre esta y seleccionar ejecutar archivo. (Run File)
+7.- Se mostrara en menu de operaciones en la pantalla de la consola.
+	opciones:
+		1.- Crear: Se creara un arbol nulo.
+		2.- Agregar: Se agregara un nuevo elemento a un nodo, dependiendo su orden jeraquico.
+		3.- Imprimir: Mostrara en pantalla los elementos en los 3 tipos de recorridos.
+		4.- Salir: Fin del programa
+8.- Introducir un 1 para crear un arbol nulo.
+9.- Oprimir el 2 para ir agregando un nuevo nodo, agregar los que se deseen. (Se agregan uno a uno)
+10.- Introducir el 3 para mostrar los recorridos.
+11.- Oprimir el 4 para finalizar el programa.
+
+
+*Instrucciones basadas en NetBeans en español.
+*Adjunte la carpeta raiz del proyecto para que asi sea mas facil abrirlo en el NetBeans. (Las clases se encuentran en la carpeta src)
